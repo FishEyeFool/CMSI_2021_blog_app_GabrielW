@@ -68,7 +68,6 @@ article .body {
   padding: 10px; 
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
   .App {
     grid-template-columns: 1fr; 
