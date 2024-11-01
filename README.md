@@ -2,6 +2,7 @@
 
 Gabriel's Blog is a simple blog application built with React and Firebase. It allows users to sign in, create, view, and delete articles.
 
+# Blog Link
 https://cmsi-2021-blog-app-473d0.web.app/
 
 ## Students Who Worked on App
